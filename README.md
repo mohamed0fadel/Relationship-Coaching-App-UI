@@ -2,6 +2,11 @@
 
 A new Flutter application.
 
+A flutter UI for [Relationship Coaching App](https://dribbble.com/shots/4486758-Relationship-Coaching-App) design from dribbble.com website
+the code is my own implementation for the UI but the idea of implementing it was from youtube tutorial implementing the same UI by Raja Yogan [here](https://www.youtube.com/watch?v=VE1IsV0HABs&t=289s).
+
+<img src=https://github.com/mohamed0fadel/Relationship-Coaching-App-UI/blob/master/screenshots/Screenshot.png width="400"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
